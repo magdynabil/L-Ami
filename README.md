@@ -6,3 +6,4 @@ e-learning platform using PHP
 ## 3-The student is allowed to attend a demo video before subscribing to the site
 ## 4-Attending explanation videos and exams using 14-digit codes
 ## 5-The student can keep all his previous answers in the tests until the end of the school year
+## 6-Student mistakes are displayed with correct answers upon completion of the test
